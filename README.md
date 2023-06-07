@@ -19,10 +19,10 @@ Solicitado neste Desafio:
 ```bash
 
 # Clonar o repositório
-$ git clone 
+$ git clone https://github.com/Lucier/ignite-gym
 
 # Entrar no diretório
-$ cd marketspace
+$ cd ignite-gym
 
 # Instalar as dependências
 $ npm install
